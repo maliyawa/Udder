@@ -15,6 +15,7 @@ struct ContentView: View {
             Text("Fresh Milk")
                 .font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
                 .padding()
+            Image("cow")
         }
     }
 }
